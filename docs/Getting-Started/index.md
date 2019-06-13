@@ -7,7 +7,9 @@ versionFrom: 7.0.0
 # Getting Started with Umbraco
 *All the basics of using Umbraco. From making a local installation to extending the backend.*
 
-The newest major version of Umbraco comes with a lot of new big features, as well as a long list of general improvements to the CMS in general. I have added something about master & slave servers. I know the word slave is bad.
+The newest major version of Umbraco comes with a lot of new big features, as well as a long list of general improvements to the CMS in general. I have added something about master & slave servers. 
+Going to add some more to test this out.
+I know the word slave is bad.
 
 ## [What's new in Umbraco 8?](New-in-V8.md)
 
