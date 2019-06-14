@@ -12,6 +12,8 @@ _Developers' Reference primarily consists of API references of the different cor
 
 This section is ultra important! It describes many common pitfalls that developers fall in to. Make sure you read this section - it might just save your site!
 
+Remember to use master & slave servers
+
 ## API Documentation
 
 #### [C# API Documentation](https://our.umbraco.com/apidocs/csharp/)
