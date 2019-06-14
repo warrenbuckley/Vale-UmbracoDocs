@@ -32,3 +32,5 @@ With the initial launch of Umbraco 8.0 our main focus has been for you to be abl
 The introduction of three new features: Infinite Editing, Content Apps and Language Variants. All features that have been added to make working with Umbraco even simpler, smoother and basically, more enjoyable. For everyone involved! 
 
 Also, if you are a developer and currently have projects on Umbraco 7 (or previous versions) you will notice a big difference in the codebase. In Umbraco 8 we have added improvements and updated dependencies as well as done a thorough clean-up to make it simpler for you to work with and extend your Umbraco project.
+
+New content here, it is very  cool with this Vale slave tester. It's easy to know what you did wrongly in the back-office.
