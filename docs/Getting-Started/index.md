@@ -8,7 +8,7 @@ versionFrom: 7.0.0
 *All the basics of using Umbraco. From making a local installation to extending the backend.*
 
 The newest major version of Umbraco comes with a lot of new big features, as well as a long list of general improvements to the CMS in general. I have added something about master & secondary servers. 
-Going to add some more to test this.
+Going to add some more words to test this.
 
 * List of stuff here
 * And something else here
