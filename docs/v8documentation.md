@@ -14,6 +14,7 @@ If you feel something is missing here or you want to help out documenting some o
 
 ## Finished Umbraco 8 Documentation:
 
+* HEJ!
 * [Searchable Trees (ISearchableTree)](Extending/Section-Trees/Searchable-Trees/)
 * [IContentFinder](Reference/Routing/Request-Pipeline/IContentFinder)
 * [Custom controllers (hijacking Umbraco routes)](Reference/Routing/custom-controllers)
