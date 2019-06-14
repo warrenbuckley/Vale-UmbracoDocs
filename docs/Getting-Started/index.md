@@ -12,7 +12,7 @@ Going to add some more to test this out.
 
 * List of stuff here
 * And something else here
-* I am capital  letter
+* I am capital letter
 
 ## [What's new in Umbraco 8?](New-in-V8.md)
 
