@@ -10,7 +10,9 @@ versionFrom: 7.0.0
 The newest major version of Umbraco comes with a lot of new big features, as well as a long list of general improvements to the CMS in general. I have added something about master & slave servers. 
 Going to add some more to test this out.
 
-New stuff here....
+* list of stuff here
+* and something else here
+* I am captial  letter
 
 I know the word slave is bad.
 
