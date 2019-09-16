@@ -1,0 +1,14 @@
+name: CI
+
+on: [push]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+    
+    steps:
+    - uses: actions/checkout@v1
+    
+    - name: 'Vale Linter Testing'
+      uses: warrenbuckley/Vale-Linter-Action@releases/v1
