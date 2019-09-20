@@ -47,4 +47,4 @@ jobs:
     - name: 'Vale Linter Testing'
       uses: warrenbuckley/Vale-Linter-Action@releases/v1
       with:
-        githubToken: {{ secrets.GITHUB_TOKEN }}
+        githubToken: ${{ secrets.GITHUB_TOKEN }}
