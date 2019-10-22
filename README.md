@@ -1,4 +1,4 @@
-# Umbraco Documentation project !?"
+# Umbraco Documentation project - its super awesome!
 Simply just make a website
 
 
